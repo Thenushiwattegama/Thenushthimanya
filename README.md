@@ -4,7 +4,7 @@
 
 <p align="left"></p>
 
-- 🌱 I’m currently learning **university of moratuwa**
+- 🌱 I’m currently studying **university of moratuwa**
 
 - 👨‍💻 All of my projects are available at -<B>C# Projects,Html,Css,Java projects,Apps projects</B>
 

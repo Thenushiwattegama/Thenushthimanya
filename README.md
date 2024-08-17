@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **university of moratuwa**
 
-- 👨‍💻 All of my projects are available at [c#,Website,Apps](c#,Website,Apps)
+- 👨‍💻 All of my projects are available at [https://github.com/Thenushiwattegama/Hotel-Managment-Syatem.git,https://github.com/Thenushiwattegama/Coffee-Website.git,https://github.com/Thenushiwattegama/Apps.git](https://github.com/Thenushiwattegama/Hotel-Managment-Syatem.git,https://github.com/Thenushiwattegama/Coffee-Website.git,https://github.com/Thenushiwattegama/Apps.git)
 
 - 💬 Ask me about **0717217446**
 

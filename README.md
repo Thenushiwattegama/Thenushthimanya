@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **university of moratuwa**
 
-- 👨‍💻 All of my projects are available at -C# Projects,Html,Css,Java projects,Apps projects
+- 👨‍💻 All of my projects are available at -<B>C# Projects,Html,Css,Java projects,Apps projects</B>
 
 - 💬 Ask me about **0717217446**
 

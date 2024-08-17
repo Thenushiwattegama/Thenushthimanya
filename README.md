@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at -<B>C# Projects,Html,Css,Java projects,Apps projects</B>
 
-- 💬 Ask me about **0717217446**
+  
 
 - 📫 How to reach me **thenushithimanya216@gmail.com**
 

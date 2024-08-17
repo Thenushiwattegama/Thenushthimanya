@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thenushi Thimanya</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
+<img align="left" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="thenushiwattegama" />
+
 <p align="left"></p>
 
 - 🌱 I’m currently learning **university of moratuwa**
@@ -13,7 +15,7 @@
 - ⚡ Fun fact **call me as thenu**
 
 <h3 align="left">Connect with me:</h3>
-<image align="right alt="coding" width="400" src=""https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif>
+
 <p align="left">
 <a href="https://fb.com/thenushi thimanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thenushi thimanya" height="30" width="40" /></a>
 </p>
